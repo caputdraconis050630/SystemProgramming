@@ -15,9 +15,9 @@ int main()
   f3 = func3(b, c);
   f4 = func4(d, d_count);
 
-  //printf("func1(5,6) = %d\n", f1);
-  //printf("func2(5,6,4) = %d\n", f2);
-  //printf("func3(6,4) = %d\n", f3);
+  printf("func1(5,6) = %d\n", f1);
+  printf("func2(5,6,4) = %d\n", f2);
+  printf("func3(6,4) = %d\n", f3);
   printf("func4({2,4,6,8,10,12,14,16}, 8) = %d\n", f4);
 
   /* Question
